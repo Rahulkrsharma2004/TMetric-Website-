@@ -62,15 +62,13 @@ Tmetric is a time tracking and productivity tool designed to help individuals an
 
 ## Screenshots
 
-<img width="949" alt="Capture" src="https://github.com/Rahulkrsharma2004/Myntra-App-Frontend/assets/139108196/9cde2563-96f7-462e-aa4b-2e6ac954d6b5">
-<img width="944" alt="Capture2" src="https://github.com/Rahulkrsharma2004/Myntra-App-Frontend/assets/139108196/f0f61c7a-55ca-478d-9ea3-c4bfbdae6b91">
-<img width="950" alt="Capt1ure" src="https://github.com/Rahulkrsharma2004/Myntra-App-Frontend/assets/139108196/c7271ecf-7eae-4a47-9dd8-0de6c672cc3a">
-<img width="768" alt="Ca121pture" src="https://github.com/Rahulkrsharma2004/Myntra-App-Frontend/assets/139108196/945ad66b-a24c-4a46-96e5-b3d818b69390">
-<img width="946" alt="Capture3" src="https://github.com/Rahulkrsharma2004/Myntra-App-Frontend/assets/139108196/cf4bb16b-e7b8-477b-aa05-683ea710f3e3">
-<img width="776" alt="Captu2re" src="https://github.com/Rahulkrsharma2004/Myntra-App-Frontend/assets/139108196/cf962b18-4029-4e8c-9eee-55b9e1d1a2bd">
-<img width="944" alt="Capture5" src="https://github.com/Rahulkrsharma2004/Myntra-App-Frontend/assets/139108196/5d991d8a-48e8-4f24-a620-7bccc5fda5f2">
-<img width="944" alt="Capture4" src="https://github.com/Rahulkrsharma2004/Myntra-App-Frontend/assets/139108196/895b3dcd-24db-45bb-8898-92e2acaefbf9">
-<img width="944" alt="Capture4" src="https://github.com/Rahulkrsharma2004/Myntra-App-Frontend/assets/139108196/e14d0227-1be1-4402-9225-24fdbacfe181">
+<img width="923" alt="Caapture" src="https://github.com/Rahulkrsharma2004/TMetric-Website-/assets/139108196/b14f5813-bf53-4479-b7bd-a1be16c914c6">
+<img width="937" alt="Capzture" src="https://github.com/Rahulkrsharma2004/TMetric-Website-/assets/139108196/bd9a5c33-dfb1-46dc-a5f4-98dfea28aaeb">
+<img width="941" alt="Cavpture" src="https://github.com/Rahulkrsharma2004/TMetric-Website-/assets/139108196/91d96c4f-e9b2-4531-92d2-262dddf8cad5">
+<img width="922" alt="Captumre" src="https://github.com/Rahulkrsharma2004/TMetric-Website-/assets/139108196/fc322d2b-467e-4dbb-9141-a40f4aa3ec19">
+<img width="925" alt="Captvvure" src="https://github.com/Rahulkrsharma2004/TMetric-Website-/assets/139108196/85b0d126-24e5-4bd8-a0d1-fea90788d89d">
+<img width="913" alt="Cakpture" src="https://github.com/Rahulkrsharma2004/TMetric-Website-/assets/139108196/039e78d9-90e1-4a00-a0b6-ab5e1d4b11a2">
+<img width="922" alt="Captumre" src="https://github.com/Rahulkrsharma2004/TMetric-Website-/assets/139108196/e7e62ea4-2435-4451-9c91-e483428f4f02">
 
 ## Installation
 
