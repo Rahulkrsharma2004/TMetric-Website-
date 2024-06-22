@@ -5,9 +5,22 @@
     ├── src
     │   ├── Images
     │   ├── Components
+    ├        ├── BlogCart.jsx
+    ├        ├── Footer.jsx
+    ├        ├── Navbar.jsx
+    ├        ├── Loader.jsx
+    ├        ├── Project.jsx
+    ├        ├── Sidebar.jsx
     │   ├── Pages
+    ├        ├── Blog.jsx
+    ├        ├── Signup.jsx
+    ├        ├── Login.jsx
+    ├        ├── Home.jsx
+    ├        ├── Dashboard.jsx
     │   ├── Redux
+    ├        ├── Auth.jsx
     │   ├── Routes
+    ├        ├── AllRoutes.jsx
     ├── gitignore
     ├── index.html
     ├── package-lock.json
@@ -19,7 +32,7 @@
 
 ## Description
 
-Myntra is an online e-commerce website for personal care and beauty products. Signup and login functionality , User and admin dashboard , Product and cart page are some of the features. Built the backend via NodeJS and MongoDB. Created the admin dashboard with all functionality Designed product and single product page.
+Tmetric is a time tracking and productivity tool designed to help individuals and teams manage their time effectively. With features like task tracking, reporting, and integrations, it's the perfect solution for optimizing workflow efficiency.
 
 ## Features
 
@@ -37,13 +50,13 @@ Myntra is an online e-commerce website for personal care and beauty products. Si
 
 - **React.js:** For building the user interface.
 - **Tailwind CSS:** For styling and layout.
-- **Axios:** For making HTTP requests to the backend.
-- **React Router:** For routing and navigation.
+- **Redux:** For making HTTP requests to the backend.
+- **React Router Dom:** For routing and navigation.
 - **Netlify:** For deployment.
 - **github:** For deployment.
 - **Html:** For making code .
 - **css:** For making style.
-- **antd:** For for sweemer.
+- **axios:** For fetchin data.
 - **js:** For functionality.
 - **Chakra UI:** For dropdoown And hamaburger.
 
@@ -66,6 +79,6 @@ Follow these steps to set up the project locally:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/Rahulkrsharma2004/Myntra-App-Frontend/frontend.git
-   cd Myntra-App-Frontend/frontend
-   npm run dev
+   git clone https://github.com/Rahulkrsharma2004/TMetric-Website-.git
+   cd TMetric-Website-
+   npm run start
